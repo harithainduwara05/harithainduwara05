@@ -9,15 +9,26 @@
 
 <br/>
 
-### 👨‍💻 About Me
-
-```yaml
-name: Haritha Induwara
-location: Sri Lanka 🇱🇰
-focus: Full-Stack Web Development, Robust Backends & System Architecture
-passions: [Clean Code, Relational & NoSQL Database Design, Web Security, Scalable APIs]
-motto: "Transforming logic and data into seamless web experiences."
-```
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="binary_portrait.svg" width="270" alt="Haritha Induwara - Binary Vector Matrix Portrait" />
+      <br/>
+      <sub><b>⚡ 100% Vector Binary Art</b><br/><i>(Zoom in to inspect the 0s and 1s!)</i></sub>
+    </td>
+    <td width="62%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>Hey there! I'm <b>Haritha Induwara</b>, a passionate Full-Stack Developer and Backend Architect from Sri Lanka 🇱🇰.</p>
+      <ul>
+        <li>🚀 <b>Backend Focus:</b> High-performance APIs with <b>Spring Boot</b>, <b>FastAPI</b> & <b>Node.js</b></li>
+        <li>🎨 <b>Frontend Craft:</b> Modern, responsive applications with <b>React</b> & <b>Tailwind CSS</b></li>
+        <li>🗄️ <b>Data Architecture:</b> Scalable schemas with <b>PostgreSQL</b>, <b>MongoDB</b> & <b>MySQL</b></li>
+        <li>🛡️ <b>Core Principle:</b> Clean architecture, type safety, and bulletproof web security</li>
+      </ul>
+      <p>💡 <i>"Transforming complex logic and data into seamless, robust digital experiences."</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
