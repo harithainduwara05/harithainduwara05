@@ -12,9 +12,9 @@
 <table>
   <tr>
     <td width="38%" align="center" valign="middle">
-      <img src="binary_portrait.svg" width="270" alt="Haritha Induwara - Binary Vector Matrix Portrait" />
+      <img src="binary_matrix_portrait.gif" width="280" alt="Haritha Induwara - Matrix Binary Digital Rain Portrait" />
       <br/>
-      <sub><b>⚡ 100% Vector Binary Art</b><br/><i>(Zoom in to inspect the 0s and 1s!)</i></sub>
+      <sub><b>⚡ Matrix Binary Digital Rain</b><br/><i>(Falling 0s & 1s in Pure Monochrome)</i></sub>
     </td>
     <td width="62%" valign="top">
       <h3>👨‍💻 About Me</h3>
