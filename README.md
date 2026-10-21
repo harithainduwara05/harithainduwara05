@@ -18,13 +18,13 @@
       <h3>👨‍💻 About Me</h3>
       <p>Hello! I'm <b>Haritha Induwara</b>, a passionate Software Developer from Sri Lanka 🇱🇰.</p>
       <ul>
-        <li>📍 <b>Location:</b> Sri Lanka 🇱🇰</li>
-        <li>🚀 <b>Focus:</b> Full-Stack Web Development, Backend Architecture & Scalable Systems</li>
-        <li>💡 <b>Passions:</b> Clean Code, Database Engineering & Performance Optimization</li>
-        <li>🌱 <b>Learning & Exploring:</b> Cloud Architecture, System Design & Modern Engineering Practices</li>
+        <li> <b>Location:</b> Sri Lanka 🇱🇰</li>
+        <li> <b>Focus:</b> Full-Stack Web Development, Backend Architecture & Scalable Systems</li>
+        <li> <b>Passions:</b> Clean Code, Database Engineering & Performance Optimization</li>
+        <li> <b>Learning & Exploring:</b> Cloud Architecture, System Design & Modern Engineering Practices</li>
         <li>🤝 <b>Collaboration:</b> Open to exciting opportunities, innovative ideas & tech discussions</li>
       </ul>
-      <p>💬 <i>"Transforming complex logic and data into seamless, impactful digital experiences."</i></p>
+      <p> <i>"Transforming complex logic and data into seamless, impactful digital experiences."</i></p>
     </td>
   </tr>
 </table>
