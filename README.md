@@ -22,7 +22,7 @@
         <li> <b>Focus:</b> Full-Stack Web Development, Backend Architecture & Scalable Systems</li>
         <li> <b>Passions:</b> Clean Code, Database Engineering & Performance Optimization</li>
         <li> <b>Learning & Exploring:</b> Cloud Architecture, System Design & Modern Engineering Practices</li>
-        <li>🤝 <b>Collaboration:</b> Open to exciting opportunities, innovative ideas & tech discussions</li>
+        <li> <b>Collaboration:</b> Open to exciting opportunities, innovative ideas & tech discussions</li>
       </ul>
       <p> <i>"Transforming complex logic and data into seamless, impactful digital experiences."</i></p>
     </td>
