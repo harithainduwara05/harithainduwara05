@@ -11,21 +11,20 @@
 
 <table>
   <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="binary_matrix_portrait.gif" width="280" alt="Haritha Induwara - Matrix Binary Digital Rain Portrait" />
-      <br/>
-      <sub><b>⚡ Matrix Binary Digital Rain</b><br/><i>(Falling 0s & 1s in Pure Monochrome)</i></sub>
+    <td width="36%" align="center" valign="middle">
+      <img src="matrix_binary_portrait.gif" width="100%" alt="Haritha Induwara" />
     </td>
-    <td width="62%" valign="top">
+    <td width="64%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <p>Hey there! I'm <b>Haritha Induwara</b>, a passionate Full-Stack Developer and Backend Architect from Sri Lanka 🇱🇰.</p>
+      <p>Hello! I'm <b>Haritha Induwara</b>, a passionate Software Developer from Sri Lanka 🇱🇰.</p>
       <ul>
-        <li>🚀 <b>Backend Focus:</b> High-performance APIs with <b>Spring Boot</b>, <b>FastAPI</b> & <b>Node.js</b></li>
-        <li>🎨 <b>Frontend Craft:</b> Modern, responsive applications with <b>React</b> & <b>Tailwind CSS</b></li>
-        <li>🗄️ <b>Data Architecture:</b> Scalable schemas with <b>PostgreSQL</b>, <b>MongoDB</b> & <b>MySQL</b></li>
-        <li>🛡️ <b>Core Principle:</b> Clean architecture, type safety, and bulletproof web security</li>
+        <li>📍 <b>Location:</b> Sri Lanka 🇱🇰</li>
+        <li>🚀 <b>Focus:</b> Full-Stack Web Development, Backend Architecture & Scalable Systems</li>
+        <li>💡 <b>Passions:</b> Clean Code, Database Engineering & Performance Optimization</li>
+        <li>🌱 <b>Learning & Exploring:</b> Cloud Architecture, System Design & Modern Engineering Practices</li>
+        <li>🤝 <b>Collaboration:</b> Open to exciting opportunities, innovative ideas & tech discussions</li>
       </ul>
-      <p>💡 <i>"Transforming complex logic and data into seamless, robust digital experiences."</i></p>
+      <p>💬 <i>"Transforming complex logic and data into seamless, impactful digital experiences."</i></p>
     </td>
   </tr>
 </table>
