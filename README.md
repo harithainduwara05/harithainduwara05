@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Haritha%20Induwara&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Backend%20Architect&descFontSize=20&descAlignY=60&theme=tokyonight" width="100%"/>
   
   <a href="https://github.com/harithainduwara05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;Crafting+Scalable+Backend+Systems;Database+Architect+and+Security+Enthusiast;Lead+Developer+at+SkillBridge+Project" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Passionate+Full-Stack+Developer;Crafting+Scalable+Backend+Systems;Building+Modern+Web+Applications+with+React+and+Node;Designing+High-Performance+Databases+and+APIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 name: Haritha Induwara
 location: Sri Lanka 🇱🇰
 focus: Full-Stack Web Development, Robust Backends & System Architecture
-passions: [Clean Code, Relational Database Design, Web Security, Git Workflows]
+passions: [Clean Code, Relational & NoSQL Database Design, Web Security, Scalable APIs]
 motto: "Transforming logic and data into seamless web experiences."
 ```
 
@@ -70,23 +70,6 @@ motto: "Transforming logic and data into seamless web experiences."
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
-
----
-
-### 🚀 Featured Project
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🎓 SkillBridge Group Project</h3>
-      <p>A multi-role enterprise career & internship platform connecting Students, Partner Companies, Universities, and Administrators.</p>
-      <p><b>Role:</b> Lead Developer & Git Maintainer | <b>Stack:</b> PHP, MySQL, Apache, Custom CSS</p>
-      <a href="https://github.com/harithainduwara05/Skill_Bridge_Group_Project">
-        <img src="https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
